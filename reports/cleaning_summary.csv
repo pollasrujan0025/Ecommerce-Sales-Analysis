@@ -1,0 +1,7 @@
+Metric,Value
+Initial Raw Records,541909.0
+Duplicates Removed,5268.0
+Missing CustomerID Records,135037.0
+Invalid Qty / Price / Cancellations,8912.0
+Final Clean Valid Records,392692.0
+Record Retention Rate (%),72.46
